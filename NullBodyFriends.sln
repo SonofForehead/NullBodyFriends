@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullBodyFriends", "NullBodyFriends\NullBodyFriends.csproj", "{DA837C09-4956-4349-B5E0-B5F728ADD38C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA837C09-4956-4349-B5E0-B5F728ADD38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA837C09-4956-4349-B5E0-B5F728ADD38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA837C09-4956-4349-B5E0-B5F728ADD38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA837C09-4956-4349-B5E0-B5F728ADD38C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B40CB4B-05EE-46F1-B20E-213EDB4401B2}
+	EndGlobalSection
+EndGlobal
